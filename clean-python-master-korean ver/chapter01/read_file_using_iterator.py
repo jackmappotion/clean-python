@@ -6,4 +6,4 @@ def read_file(file_name):
 
 
 for line in read_file("logfile.txt"):
-    print(line.startswith(">>")
+    print(line.startswith(">>"))
